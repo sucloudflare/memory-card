@@ -31,12 +31,10 @@
         <pre>
             <code>
         </code>Clone o repositório para a sua máquina local:
-          git clone https://github.com/sucloudflare/memory-card
+        git clone https://github.com/sucloudflare/memory-card
+        cd memory-game
 
- <h3>Navegue até o diretório do projeto:</h3>
-      cd memory-game
-
-<h3>Abra o arquivo index.html em seu navegador da web preferido.</h3>
+<h3Abra o arquivo index.html em seu navegador da web preferido.</h3>
    </code>
         </pre>
 
