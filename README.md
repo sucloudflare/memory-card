@@ -30,13 +30,13 @@
         <p>Para executar o Memory Game localmente, siga estes passos:</p>
         <pre>
             <code>
-# Clone o repositório para a sua máquina local:
+            </code>Clone o repositório para a sua máquina local:
           git clone https://github.com/seu-nome-de-usuario/memory-game.git
 
-# Navegue até o diretório do projeto:
-cd memory-game
+ <h3>Navegue até o diretório do projeto:</h3>
+      cd memory-game
 
-# Abra o arquivo index.html em seu navegador da web preferido.
+<h3>Abra o arquivo index.html em seu navegador da web preferido.</h3>
    </code>
         </pre>
 
