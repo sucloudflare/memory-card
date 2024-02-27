@@ -27,10 +27,9 @@
         </ul>
 
   <h2 id="getting-started">Começando</h2>
-        <p>Para executar o Memory Game localmente, siga estes passos:</p>
-        <pre>
-            <code>
+        <p>Para executar o Memory Game localmente, siga estes passos:</p
         </code>Clone o repositório para a sua máquina local:
+        
         git clone https://github.com/sucloudflare/memory-card
         cd memory-game
 
