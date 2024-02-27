@@ -33,7 +33,7 @@
         git clone https://github.com/sucloudflare/memory-card
         cd memory-game
 
-<h3Abra o arquivo index.html em seu navegador da web preferido.</h3>
+<h3>Abra o arquivo index.html em seu navegador da web preferido.</h3>
    </code>
         </pre>
 
