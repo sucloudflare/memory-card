@@ -31,7 +31,7 @@
         <pre>
             <code>
 # Clone o repositório para a sua máquina local:
-git clone https://github.com/seu-nome-de-usuario/memory-game.git
+          git clone https://github.com/seu-nome-de-usuario/memory-game.git
 
 # Navegue até o diretório do projeto:
 cd memory-game
