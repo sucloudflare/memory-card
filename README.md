@@ -30,8 +30,8 @@
         <p>Para executar o Memory Game localmente, siga estes passos:</p>
         <pre>
             <code>
-            </code>Clone o repositório para a sua máquina local:
-          git clone https://github.com/seu-nome-de-usuario/memory-game.git
+        </code>Clone o repositório para a sua máquina local:
+          git clone https://github.com/sucloudflare/memory-card
 
  <h3>Navegue até o diretório do projeto:</h3>
       cd memory-game
